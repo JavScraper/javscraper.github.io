@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+title: Jav Scraper
+description: Emby 的一个日本电影刮削器插件，可以从某些网站抓取影片信息
+google_analytics: UA-157909139-1
+
+url: https://javscraper.com/
+repo: https://github.com/JavScraper/Emby.Plugins.JavScraper
+download_url: https://github.com/JavScraper/Emby.Plugins.JavScraper/releases
+
+github:
+  is_project_page: true
+  repository_name: Emby.Plugins.JavScraper
+  repository_url: https://github.com/JavScraper/Emby.Plugins.JavScraper
+  
